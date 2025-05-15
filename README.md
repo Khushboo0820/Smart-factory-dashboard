@@ -1,6 +1,6 @@
 # 🏭 Smart Factory Dashboard
 
-A lightweight and responsive dashboard UI for monitoring smart factory production data. Built with **React**, **TypeScript**, **Mantine UI**, and supports basic internationalization.
+A lightweight and responsive dashboard UI for monitoring smart factory production data. Built with **React**,**Mantine UI**, and supports basic internationalization.
 
 ## 🧩 Features
 
