@@ -43,7 +43,7 @@ A lightweight and responsive dashboard UI for monitoring smart factory productio
 ## 🚀 Tech Stack
 
 - **React** (with Vite or CRA)
-- **TypeScript**
+- **CSS**
 - **Mantine UI**
 - **Recharts / ApexCharts**
 - **React Query**
